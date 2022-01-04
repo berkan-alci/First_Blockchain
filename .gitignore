@@ -1,1 +1,7 @@
 /venv
+__pycache__
+Berkiecoin_node_5001.py
+Berkiecoin_node_5002.py
+Berkiecoin_node_5003.py
+nodes.json
+transaction.json
